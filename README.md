@@ -1,4 +1,4 @@
-# human systems 3D models
+# Human systems 3D models
 * Urinary system 3d model
 
 # Demo online 
