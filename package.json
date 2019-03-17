@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon --exec node ./src/"
+    "start": "node ./src/"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
+  },
+  "engines": {
+    "node": "10.6.0"
   }
 }
